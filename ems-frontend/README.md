@@ -1,8 +1,14 @@
-# React + Vite
+# Employee Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack employee management application built with React (Vite) for the frontend and Node.js/Express for the backend. This template includes Fast Refresh support, ESLint rules, and scalable architecture for managing employee data.
 
-Currently, two official plugins are available:
+# Technologies Used
+- **Frontend:** React, Vite, Tailwind CSS, ESLint
+- **Backend:** Node.js, Express, MongoDB
+- **Features:** CRUD operations, role-based access, secure authentication, responsive UI
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  Project Links
+- **Frontend Code:** [https://github.com/Manoj01777/full-stack-emp](https://github.com/Manoj01777/full-stack-emp)
+- **Backend Code:** [https://github.com/Manoj01777/emp-management](https://github.com/Manoj01777/emp-management)
+
+
